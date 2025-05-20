@@ -1,1 +1,5 @@
 # accountChooser-url-generator
+Googleサービスにおいて、そのURLをクリックしたときにログインするアカウントを指定するURLを生成します
+
+# 使い方
+それぞれのフィールドにGoogleアカウントと、飛びたいページのURLを入力して下さい
